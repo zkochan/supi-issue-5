@@ -1,0 +1,16 @@
+{
+  "name": "supi-issue-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "dependencies": {
+    "pnpm-logger": "^0.5.4",
+    "supi": "^0.2.13"
+  }
+}
